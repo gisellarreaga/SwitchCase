@@ -25,19 +25,19 @@ namespace SwitchCase
 
             switch (s1)
             {
-                case 1:
+                case "1":
                     Console.WriteLine("Seleccionaste la Suma");
                     break;
-                case 2:
+                case "2":
                     Console.WriteLine("Seleccionaste la Resta");
                     break;
-                case 3:
+                case "3":
                     Console.WriteLine("Seleccionaste la Multiplicación");
                     break;
-                case 4:
+                case "4":
                     Console.WriteLine("Seleccionaste la División");
                     break;
-                case 5:
+                case "5":
                     Console.WriteLine("Seleccionaste Salir");
                     break;
                 default:
